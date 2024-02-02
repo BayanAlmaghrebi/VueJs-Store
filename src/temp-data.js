@@ -7,28 +7,28 @@ export const courses = [
     {
         id:1 ,
         name: 'Python Basics' ,
-        Category: 'Web Development',
+        category: 'Web Development',
         price: 30 , 
         image: img1
     },
     {
         id:2 , 
         name: 'AI Basics' , 
-        Category: 'AI Development',
+        category: 'AI Development',
         price: 40 , 
         image: img2
     },
     {
         id:3 , 
         name: 'Flutter Basics' , 
-        Category: 'Mobile Development',
+        category: 'Mobile Development',
         price: 50 , 
         image: img3
     },
     {
         id:4 , 
         name: 'Django Basics' , 
-        Category: 'Web Development',
+        category: 'Web Development',
         price: 60 , 
         image: img4
     },
