@@ -24,7 +24,13 @@
                 ],
                 selectedCategory: []
             }
-        }
+        },
+        watch:{
+            selectedCategory(){
+                this.$emit('category-updated',this.selectedCategory)
+            }
+        }             // watch يعني حدثين مرتبطين ببعض 
+                    //   emit يعني ارسل اشارة لها اسم وبتاخد معها داتا
     }
 </script>
 
