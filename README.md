@@ -1,3 +1,7 @@
+
+![Vite-App](https://github.com/BayanAlmaghrebi/VueJs-Store/assets/127544470/82442cd5-7d14-408d-8fea-55c523b25474)
+
+
 # VueStore
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +31,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+
